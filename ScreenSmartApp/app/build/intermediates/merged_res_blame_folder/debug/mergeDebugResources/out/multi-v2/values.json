@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.screensmart.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hp\\Downloads\\ScreenSmartApp\\ScreenSmartApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "384",
+                        "endColumns": "49",
+                        "endOffsets": "429"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\Downloads\\ScreenSmartApp\\ScreenSmartApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "434",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "763"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\Downloads\\ScreenSmartApp\\ScreenSmartApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "8,1,5,6,3,4,7,2",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "301,16,179,218,100,141,259,59",
+                        "endColumns": "43,42,38,40,40,37,41,40",
+                        "endOffsets": "340,54,213,254,136,174,296,95"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,142,181,222,263,301,343",
+                        "endColumns": "43,42,38,40,40,37,41,40",
+                        "endOffsets": "94,137,176,217,258,296,338,379"
+                    }
+                }
+            ]
+        }
+    ]
+}

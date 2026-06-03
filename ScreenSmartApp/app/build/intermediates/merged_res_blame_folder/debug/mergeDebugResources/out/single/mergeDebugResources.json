@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_card_pink.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/card_pink.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_card_purple.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/card_purple.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_app_gradient.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/app_gradient.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_button_secondary.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/button_secondary.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_card_bg.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_badge_bg.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/badge_bg.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_button_primary.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_card_blue.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/card_blue.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_ic_screen_smart.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/ic_screen_smart.xml"
+    },
+    {
+        "merged": "com.example.screensmart.app-debug-4:/drawable_card_green.xml.flat",
+        "source": "com.example.screensmart.app-main-6:/drawable/card_green.xml"
+    }
+]

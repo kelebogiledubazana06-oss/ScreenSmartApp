@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.screensmart"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:2:5-19:19
+12        android:allowBackup="true"
+12-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:3:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@drawable/ic_screen_smart"
+15-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:4:9-49
+16        android:label="Screen Smart"
+16-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:5:9-37
+17        android:roundIcon="@drawable/ic_screen_smart"
+17-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:6:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:7:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:8:9-40
+21        <activity android:name="com.example.screensmart.DetailedViewActivity" />
+21-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:9:9-58
+21-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:9:19-55
+22        <activity android:name="com.example.screensmart.MainActivity" />
+22-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:10:9-50
+22-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:10:19-47
+23        <activity
+23-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:11:9-18:20
+24            android:name="com.example.screensmart.SplashActivity"
+24-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:12:13-43
+25            android:exported="true" >
+25-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:13:13-36
+26            <intent-filter>
+26-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:14:13-17:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:15:17-69
+27-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:15:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:16:17-77
+29-->C:\Users\hp\Downloads\ScreenSmartApp\ScreenSmartApp\app\src\main\AndroidManifest.xml:16:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

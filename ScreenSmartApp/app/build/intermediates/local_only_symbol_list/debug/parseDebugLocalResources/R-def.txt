@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color deep_text
+color hot_pink
+color mint
+color orange
+color purple
+color sky
+color soft_bg
+color sunset
+drawable app_gradient
+drawable badge_bg
+drawable button_primary
+drawable button_secondary
+drawable card_bg
+drawable card_blue
+drawable card_green
+drawable card_pink
+drawable card_purple
+drawable ic_screen_smart
+string app_name
+style AppTheme

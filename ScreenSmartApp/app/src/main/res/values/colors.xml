@@ -1,0 +1,10 @@
+<resources>
+    <color name="hot_pink">#EC4899</color>
+    <color name="sunset">#FF6B6B</color>
+    <color name="purple">#7C3AED</color>
+    <color name="sky">#00C2FF</color>
+    <color name="mint">#22C55E</color>
+    <color name="orange">#F59E0B</color>
+    <color name="soft_bg">#FFF7ED</color>
+    <color name="deep_text">#581C87</color>
+</resources>

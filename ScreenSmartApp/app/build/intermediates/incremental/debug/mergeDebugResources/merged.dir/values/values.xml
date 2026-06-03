@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_text">#581C87</color>
+    <color name="hot_pink">#EC4899</color>
+    <color name="mint">#22C55E</color>
+    <color name="orange">#F59E0B</color>
+    <color name="purple">#7C3AED</color>
+    <color name="sky">#00C2FF</color>
+    <color name="soft_bg">#FFF7ED</color>
+    <color name="sunset">#FF6B6B</color>
+    <string name="app_name">Screen Smart</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#101828</item>
+        <item name="android:navigationBarColor">#101828</item>
+    </style>
+</resources>
