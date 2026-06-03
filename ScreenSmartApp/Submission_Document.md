@@ -1,7 +1,7 @@
 # Screen Smart App - Submission Document
 
 ## GitHub Repository Link
-Paste your GitHub repository link here: `https://github.com/your-username/screen-smart-app`
+Paste your GitHub repository link here: `https://github.com/kelebogileubazana06-oss/ScreenSmartApps`
 
 ## App Explanation
 Screen Smart is a native Android Kotlin application that helps students manage and analyse their screen time over a seven-day period. The app records morning screen time, afternoon screen time and activity notes for each day. It then calculates the weekly total, average screen time, highest usage day, lowest usage day and number of healthy-balance days.
