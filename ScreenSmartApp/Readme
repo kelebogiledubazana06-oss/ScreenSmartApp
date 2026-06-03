@@ -1,0 +1,26 @@
+# ScreenSmartApp
+
+## About
+Screen Smart is a native Android Kotlin application
+that helps students manage and analyse their screen
+time over a seven-day period.
+
+## Features
+- Track daily morning and afternoon screen time
+- Input and validate screen time data
+- Calculate weekly total and average
+- Find highest and lowest usage day
+- Count healthy balance days
+- Detailed view screen for full report
+
+## Screens
+- **Splash Screen** - Introduction screen
+- **Main Screen** - Data input and summary
+- **Detailed View Screen** - Full daily report
+
+## Developer
+- **Name:** Your Full Name
+- **Student Number:** Your Number
+
+## GitHub
+https://github.com/kelebogileubazana06-oss/ScreenSmartApp
